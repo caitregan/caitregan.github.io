@@ -29,7 +29,7 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Caitlin Regan
-header: Caitlin Regan Portfolio
+header: "Caitlin Regan Portfolio"
 subheader: Support and documentation for Odin
 
 meta_image: odin-meta.png
